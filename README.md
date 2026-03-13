@@ -1,5 +1,5 @@
 Desenvolvedor com foco em desenvolvimento web e programação.  
-Tenho experiência com JavaScript, Python, HTML e CSS, criando projetos práticos e funcionais.
+Tenho experiência com JavaScript, HTML e CSS, criando projetos práticos e funcionais.
 
 ---
 
