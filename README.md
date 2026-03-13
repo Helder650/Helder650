@@ -5,7 +5,7 @@ Tenho experiência com JavaScript, HTML e CSS, criando projetos práticos e func
 
 ### • Linguagens
 
-![JavaScript](https://raw.githubusercontent.com/gui-bus/TechIcons/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Light/Javascript.svg)
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 
