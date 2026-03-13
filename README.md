@@ -5,9 +5,11 @@ Tenho experiência com JavaScript, HTML e CSS, criando projetos práticos e func
 
 ### • Linguagens
 
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+<div style="display: inline_block"><br>
+  <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 ## 📫 Contato
 
