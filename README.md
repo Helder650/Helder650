@@ -3,7 +3,7 @@ Tenho experiência com JavaScript, HTML e CSS, criando projetos práticos e func
 
 ---
 
-### • Linguagens
+### Linguagens
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
